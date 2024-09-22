@@ -9,18 +9,6 @@
     <br>
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
-
 ## 🧐 About <a name = "about"></a>
 
 Projeto de servidor em node.js utilizando [DrizzleORM](https://orm.drizzle.team/) para a comunicação com o banco de dados de PostgreSQL, [fastify](https://fastify.dev/) para gerenciamento de requests e
